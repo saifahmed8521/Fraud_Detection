@@ -46,5 +46,3 @@ if check == 1:
         st.title(pri)
     else :
         pass
-
-    st.title('Hello')
