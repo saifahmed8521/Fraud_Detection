@@ -26,7 +26,7 @@ https://fraudetection.streamlit.app/
 
 ## Screenshots
 
-![App Screenshot](card_1.png)
+![App Screenshot](WebApp_SS.png)
 
 
 ## Installation
@@ -50,6 +50,6 @@ Open Terminal in CreditDetails file
 - [@Md Saif](https://github.com/saifahmed8521)
 - [@Rishi](https://github.com/rishikumar1812)
 - [@Aparna](https://github.com/aaparnajha)
-- [@Neeraj](https://www.github.com/octokatherine)
+- [@Neeraj](https://github.com/yneeraj080)
 
 
