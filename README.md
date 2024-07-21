@@ -26,7 +26,7 @@ https://fraudetection.streamlit.app/
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1M8yP9aYUwqm82ctlkQDpNVePCZt7_Snr/view?usp=sharing)
+![App Screenshot](card_1.png)
 
 
 ## Installation
